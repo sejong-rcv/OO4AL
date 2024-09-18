@@ -1,0 +1,6 @@
+chardet==5.1.0
+numpy==1.21.6
+scikit-learn==1.0.2
+tqdm==4.65.0
+torchvision==0.14.1
+torch==1.13.1
